@@ -517,6 +517,13 @@ Blockly.Blocks.defaultToolbox = '<xml id="toolbox-categories" style="display: no
         '</shadow>' +
       '</value>' +
     '</block>' +
+    '<block type="operator_sqrt" id="operator_sqrt">' +
+      '<value name="NUM">' +
+        '<shadow type="math_number">' +
+          '<field name="NUM"></field>' +
+        '</shadow>' +
+      '</value>' +
+    '</block>' +
     '<block type="operator_mathop" id="operator_mathop">' +
       '<value name="NUM">' +
         '<shadow type="math_number">' +
